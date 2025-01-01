@@ -1,0 +1,223 @@
+,time,carrera,acepta,positivo,negativo,edad,sexo,trabajo
+0,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Eventual
+1,2020-11-08,Psicología,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,26,Hombre,Eventual
+2,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",20,Mujer,Sí
+3,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,18,Mujer,No
+4,2020-11-08,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,39,Hombre,Sí
+5,2020-11-08,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,Conexión a internet.,25,Mujer,Sí
+6,2020-11-08,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",18,Hombre,Eventual
+7,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Sí
+8,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Sí
+9,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,25,Hombre,Sí
+10,2020-11-08,Psicología,Si,Horario flexible.,Conexión a internet.,32,Hombre,Eventual
+11,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Eventual
+12,2020-11-08,Ciencias Físicas y Energías Alternativas,Si,Horario flexible.,Conexión a internet.,25,Hombre,Sí
+14,2020-11-08,Contaduría Pública,Si,Horario flexible.,Conexión a internet.,22,Mujer,Sí
+16,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,19,Mujer,Sí
+17,2020-11-08,Ciencias de la Educación,No,Acceso desde cualquier lugar.,Conexión a internet.,19,Mujer,No
+18,2020-11-08,Administración de Empresas,Si,Horario flexible.,Conexión a internet.,24,Hombre,Eventual
+19,2020-11-08,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,28,Mujer,Eventual
+20,2020-11-09,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,32,Mujer,Sí
+21,2020-11-09,Historia,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Eventual
+22,2020-11-09,Trabajo Social,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,30,Mujer,Sí
+23,2020-11-09,Artes Plásticas,Si,Horario flexible.,Conexión a internet.,20,Hombre,Eventual
+24,2020-11-09,Lingüística e Idiomas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,35,Hombre,Sí
+25,2020-11-09,Derecho,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,34,Mujer,Sí
+26,2020-11-09,Derecho,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,34,Mujer,Sí
+27,2020-11-09,Ciencias de la Educación,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,46,Hombre,Sí
+29,2020-11-09,Administración de Empresas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,29,Hombre,Sí
+30,2020-11-09,Contaduría Pública,Si,Horario flexible.,Conexión a internet.,36,Hombre,Sí
+31,2020-11-09,Lingüística e Idiomas,Si,Autonomía.,Conexión a internet.,30,Hombre,Sí
+32,2020-11-09,Derecho,Si,Horario flexible.,Conexión a internet.,33,Mujer,Sí
+33,2020-11-09,Economía,Si,Horario flexible.,Conexión a internet.,24,Mujer,Eventual
+34,2020-11-09,Economía,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,24,Mujer,Sí
+36,2020-11-09,Derecho,No,Autonomía.,Contacto Personal Docente-Estudiantil.,25,Hombre,No
+38,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,45,Hombre,Sí
+39,2020-11-09,Otra,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,23,Mujer,Sí
+41,2020-11-09,Otra,No,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",19,Hombre,Eventual
+42,2020-11-09,Otra,Si,Autonomía.,Conexión a internet.,30,Hombre,Eventual
+43,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,39,Hombre,Sí
+44,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,22,Hombre,Eventual
+46,2020-11-09,Gestión Turística y Hotelera,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,29,Hombre,Sí
+47,2020-11-09,Psicología,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",30,Mujer,Sí
+48,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,33,Hombre,Eventual
+49,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Sí
+50,2020-11-09,Ciencias Físicas y Energías Alternativas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,33,Hombre,Sí
+51,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,20,Mujer,No
+52,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,19,Hombre,Eventual
+54,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,26,Hombre,Sí
+55,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,21,Hombre,Eventual
+56,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,33,Hombre,Sí
+57,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",35,Hombre,Sí
+58,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,22,Mujer,Sí
+59,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,27,Hombre,Sí
+60,2020-11-09,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,20,Hombre,No
+61,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,33,Hombre,Sí
+62,2020-11-09,Ingeniería Agronómica,Si,Horario flexible.,Conexión a internet.,23,Mujer,No
+63,2020-11-09,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,45,Hombre,Sí
+64,2020-11-09,Ingeniería de Sistemas,Si,Autonomía.,Conexión a internet.,26,Hombre,Eventual
+65,2020-11-09,Contaduría Pública,Si,Acceso desde cualquier lugar.,Conexión a internet.,25,Mujer,Sí
+67,2020-11-09,Derecho,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Sí
+68,2020-11-09,Otra,Si,Autonomía.,Conexión a internet.,30,Hombre,Sí
+69,2020-11-10,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,32,Hombre,Sí
+70,2020-11-10,Derecho,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,28,Hombre,Sí
+71,2020-11-10,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,33,Hombre,Sí
+72,2020-11-10,Comercio Internacional,Si,Acceso desde cualquier lugar.,Conexión a internet.,38,Mujer,Sí
+73,2020-11-10,Lingüística e Idiomas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",50,Hombre,Sí
+74,2020-11-10,Derecho,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",25,Hombre,Sí
+76,2020-11-10,Trabajo Social,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,22,Mujer,Sí
+77,2020-11-10,Ciencias de la Educación,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,31,Mujer,Sí
+78,2020-11-10,Otra,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",19,Mujer,Sí
+79,2020-11-10,Derecho,Si,Horario flexible.,Conexión a internet.,42,Hombre,Sí
+80,2020-11-10,Derecho,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,40,Mujer,Sí
+81,2020-11-10,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",21,Hombre,No
+82,2020-11-10,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,27,Mujer,Sí
+83,2020-11-10,Contaduría Pública,Si,Horario flexible.,Conexión a internet.,35,Hombre,Sí
+84,2020-11-10,Otra,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,17,Mujer,Sí
+85,2020-11-10,Trabajo Social,Si,Horario flexible.,Conexión a internet.,17,Mujer,Sí
+86,2020-11-10,Psicología,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",33,Mujer,Sí
+87,2020-11-10,Derecho,Si,Horario flexible.,Conexión a internet.,38,Mujer,Eventual
+88,2020-11-10,Derecho,Si,Horario flexible.,Conexión a internet.,38,Mujer,Eventual
+89,2020-11-10,Derecho,Si,Horario flexible.,Conexión a internet.,38,Mujer,Eventual
+90,2020-11-10,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,38,Hombre,Sí
+91,2020-11-10,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,33,Hombre,Sí
+92,2020-11-10,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,33,Hombre,Sí
+93,2020-11-11,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,30,Hombre,Sí
+94,2020-11-11,Derecho,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,37,Mujer,Eventual
+95,2020-11-11,Derecho,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,49,Hombre,Sí
+96,2020-11-13,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,Conexión a internet.,17,Mujer,No
+98,2020-11-13,Otra,Si,Horario flexible.,Conexión a internet.,18,Hombre,No
+99,2020-11-13,Otra,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",21,Hombre,Sí
+100,2020-11-13,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",25,Hombre,Sí
+101,2020-11-13,Contaduría Pública,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,40,Hombre,No
+102,2020-11-13,Psicología,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,30,Mujer,Sí
+103,2020-11-13,Historia,Si,Acceso desde cualquier lugar.,Conexión a internet.,30,Mujer,Eventual
+104,2020-11-13,Nutrición y Dietética,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,28,Hombre,Sí
+105,2020-11-13,Otra,Si,Acceso desde cualquier lugar.,Conexión a internet.,29,Mujer,Sí
+106,2020-11-14,Administración de Empresas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",29,Hombre,Sí
+107,2020-11-14,Derecho,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",32,Mujer,No
+108,2020-11-14,Otra,Si,Horario flexible.,Conexión a internet.,31,Hombre,Sí
+109,2020-11-14,Contaduría Pública,Si,Horario flexible.,Conexión a internet.,17,Hombre,Sí
+110,2020-11-14,Otra,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,24,Hombre,Sí
+111,2020-11-14,Derecho,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,40,Hombre,Sí
+112,2020-11-14,Trabajo Social,Si,Acceso desde cualquier lugar.,Conexión a internet.,24,Mujer,Sí
+113,2020-11-15,Administración de Empresas,Si,Autonomía.,Conexión a internet.,21,Hombre,Sí
+114,2020-11-15,Administración de Empresas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,27,Mujer,Sí
+115,2020-11-17,Derecho,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,25,Hombre,Eventual
+116,2020-11-17,Ciencias Físicas y Energías Alternativas,Si,Horario flexible.,Conexión a internet.,30,Mujer,Eventual
+117,2020-11-18,Otra,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,25,Mujer,Sí
+118,2020-11-18,Ingeniería Agronómica,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,38,Mujer,Sí
+119,2020-11-19,Ciencias de la Educación,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Sí
+120,2020-11-19,Ciencias Políticas,Si,Horario flexible.,Conexión a internet.,30,Mujer,Eventual
+121,2020-11-19,Contaduría Pública,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,41,Hombre,Sí
+122,2020-11-19,Contaduría Pública,Si,Acceso desde cualquier lugar.,Conexión a internet.,20,Mujer,Eventual
+123,2020-11-19,Psicología,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,40,Mujer,Sí
+124,2020-11-19,Otra,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Eventual
+125,2020-11-19,Lingüística e Idiomas,Si,Horario flexible.,Conexión a internet.,54,Mujer,Sí
+126,2020-11-19,Derecho,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,31,Mujer,Sí
+127,2020-11-20,Trabajo Social,Si,Acceso desde cualquier lugar.,Conexión a internet.,25,Mujer,Sí
+128,2020-11-20,Psicología,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,45,Hombre,Sí
+129,2020-11-20,Educación Parvularia,Si,Horario flexible.,Conexión a internet.,30,Mujer,Sí
+130,2020-11-20,Contaduría Pública,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",27,Mujer,Eventual
+131,2020-11-20,Sociología,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,28,Hombre,Sí
+132,2020-11-20,Ingeniería de Sistemas,No,Horario flexible.,Conexión a internet.,21,Hombre,Sí
+133,2020-11-20,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,35,Hombre,Eventual
+134,2020-11-20,Derecho,Si,Horario flexible.,Conexión a internet.,36,Hombre,Sí
+135,2020-11-22,Administración de Empresas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,22,Mujer,Sí
+136,2020-11-22,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Sí
+137,2020-11-22,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",19,Hombre,Sí
+138,2020-11-22,Ciencias Físicas y Energías Alternativas,Si,Acceso desde cualquier lugar.,Conexión a internet.,18,Hombre,Eventual
+139,2020-11-22,Ciencias Físicas y Energías Alternativas,Si,Autonomía.,Conexión a internet.,30,Hombre,Sí
+140,2020-11-22,Educación Parvularia,Si,Horario flexible.,Conexión a internet.,30,Mujer,Sí
+141,2020-11-22,Derecho,Si,Autonomía.,Conexión a internet.,31,Mujer,Sí
+142,2020-11-22,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,24,Hombre,Sí
+143,2020-11-22,Otra,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",23,Hombre,Sí
+144,2020-11-22,Ciencias Físicas y Energías Alternativas,Si,Acceso desde cualquier lugar.,Conexión a internet.,26,Hombre,Eventual
+145,2020-11-22,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,19,Mujer,Sí
+146,2020-11-22,Ingeniería de Sistemas,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,20,Mujer,Sí
+147,2020-11-22,Otra,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",22,Mujer,Eventual
+148,2020-11-22,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",18,Mujer,Eventual
+150,2020-11-22,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",26,Hombre,Eventual
+151,2020-11-22,Otra,Si,Horario flexible.,Conexión a internet.,30,Hombre,Sí
+152,2020-11-22,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,20,Hombre,Sí
+153,2020-11-22,Comercio Internacional,Si,Horario flexible.,Conexión a internet.,47,Mujer,Sí
+154,2020-11-22,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",20,Hombre,Eventual
+155,2020-11-22,Otra,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,28,Hombre,Sí
+156,2020-11-22,Psicología,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",37,Mujer,Sí
+157,2020-11-22,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",20,Mujer,No
+158,2020-11-22,Otra,No,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",20,Mujer,No
+159,2020-11-23,Contaduría Pública,Si,Acceso desde cualquier lugar.,Conexión a internet.,29,Mujer,Sí
+160,2020-11-23,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",30,Mujer,Sí
+161,2020-11-23,Ciencias de la Educación,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,30,Hombre,Sí
+162,2020-11-23,Educación Parvularia,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,37,Hombre,Sí
+163,2020-11-23,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,35,Hombre,Sí
+164,2020-11-23,Derecho,Si,Horario flexible.,Conexión a internet.,40,Hombre,Sí
+165,2020-11-24,Psicología,Si,Acceso desde cualquier lugar.,Conexión a internet.,32,Mujer,Sí
+166,2020-11-24,Psicología,Si,Horario flexible.,Conexión a internet.,32,Mujer,Sí
+167,2020-11-24,Psicología,Si,Horario flexible.,Conexión a internet.,32,Mujer,Sí
+168,2020-11-24,Ciencias Físicas y Energías Alternativas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",25,Hombre,Eventual
+169,2020-11-24,Otra,Si,Horario flexible.,Conexión a internet.,26,Mujer,Sí
+170,2020-11-24,Artes Plásticas,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,40,Hombre,Sí
+171,2020-11-25,Gestión Turística y Hotelera,No,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",21,Hombre,Eventual
+172,2020-11-26,Gestión Turística y Hotelera,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",25,Hombre,Sí
+173,2020-11-26,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,36,Mujer,Eventual
+174,2020-11-26,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,36,Mujer,Eventual
+175,2020-11-26,Ciencias Políticas,Si,Acceso desde cualquier lugar.,Conexión a internet.,43,Hombre,Sí
+176,2020-11-26,Ciencias Políticas,Si,Acceso desde cualquier lugar.,Conexión a internet.,43,Hombre,Sí
+177,2020-11-27,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",23,Mujer,Sí
+178,2020-11-27,Economía,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,25,Mujer,Sí
+179,2020-11-27,Derecho,Si,Horario flexible.,Conexión a internet.,30,Hombre,Eventual
+180,2020-11-27,Otra,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",27,Hombre,Sí
+181,2020-11-27,Derecho,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",20,Hombre,Sí
+182,2020-11-27,Ingeniería Agronómica,Si,Acceso desde cualquier lugar.,Conexión a internet.,26,Mujer,Eventual
+183,2020-11-27,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,Conexión a internet.,30,Mujer,Sí
+184,2020-11-27,Nutrición y Dietética,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,35,Mujer,Sí
+185,2020-11-27,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,22,Mujer,Eventual
+186,2020-11-27,Lingüística e Idiomas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,24,Mujer,Eventual
+187,2020-11-27,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,30,Hombre,Sí
+188,2020-11-27,Lingüística e Idiomas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",25,Mujer,Sí
+189,2020-11-27,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,20,Mujer,No
+190,2020-11-27,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,30,Mujer,Sí
+191,2020-11-27,Administración de Empresas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,32,Mujer,Sí
+192,2020-11-27,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",26,Mujer,Sí
+193,2020-11-27,Administración de Empresas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",19,Mujer,Sí
+194,2020-11-27,Otra,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",28,Mujer,Sí
+195,2020-11-28,Otra,Si,Horario flexible.,Conexión a internet.,30,Hombre,Sí
+196,2020-11-28,Ciencias Físicas y Energías Alternativas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",25,Mujer,Eventual
+197,2020-11-29,Ciencias de la Educación,Si,Autonomía.,Conexión a internet.,33,Hombre,Sí
+198,2020-11-30,Derecho,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",22,Hombre,Eventual
+199,2020-11-30,Otra,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,19,Hombre,Eventual
+200,2020-12-06,Economía,Si,Autonomía.,"Falta de recursos de calidad(plataformas, docentes).",40,Hombre,Sí
+201,2020-12-07,Otra,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,23,Mujer,No
+202,2020-12-08,Ingeniería de Sistemas,Si,Autonomía.,Contacto Personal Docente-Estudiantil.,40,Hombre,Sí
+203,2020-12-08,Derecho,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",28,Hombre,Sí
+204,2020-12-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,23,Hombre,Eventual
+205,2020-12-08,Otra,Si,Acceso desde cualquier lugar.,Conexión a internet.,19,Mujer,Eventual
+206,2020-12-08,Contaduría Pública,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",24,Mujer,Sí
+207,2020-12-08,Artes Plásticas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",30,Hombre,Sí
+208,2020-12-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Sí
+209,2020-12-08,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",40,Hombre,Sí
+210,2020-12-08,Comercio Internacional,No,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,22,Hombre,Eventual
+211,2020-12-08,Contaduría Pública,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,34,Hombre,Sí
+212,2020-12-08,Trabajo Social,Si,Acceso desde cualquier lugar.,Conexión a internet.,23,Mujer,Sí
+213,2020-12-08,Comercio Internacional,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,23,Mujer,Sí
+214,2020-12-08,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Conexión a internet.,25,Mujer,Sí
+215,2020-12-08,Lingüística e Idiomas,Si,Horario flexible.,Conexión a internet.,19,Hombre,Eventual
+216,2020-12-08,Otra,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,27,Mujer,Eventual
+217,2020-12-08,Comercio Internacional,Si,Acceso desde cualquier lugar.,Conexión a internet.,29,Hombre,Sí
+218,2020-12-08,Lingüística e Idiomas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,37,Mujer,Sí
+219,2020-12-08,Contaduría Pública,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",33,Mujer,Sí
+220,2020-12-08,Psicología,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,40,Mujer,Eventual
+221,2020-12-08,Trabajo Social,No,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",20,Mujer,Sí
+222,2020-12-08,Ingeniería Agronómica,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,23,Hombre,Sí
+223,2020-12-08,Ingeniería Agronómica,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",33,Hombre,Sí
+224,2020-12-08,Derecho,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",34,Hombre,Sí
+226,2020-12-09,Ciencias de la Educación,Si,Autonomía.,"Falta de recursos de calidad(plataformas, docentes).",26,Hombre,Eventual
+227,2020-12-09,Comercio Internacional,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",20,Mujer,Sí
+228,2020-12-09,Psicología,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,21,Mujer,No
+229,2020-12-10,Trabajo Social,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,30,Mujer,Sí
+230,2020-12-10,Gestión Turística y Hotelera,Si,Horario flexible.,Conexión a internet.,19,Mujer,Sí
+231,2020-12-11,Ingeniería de Sistemas,No,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",23,Mujer,No
+232,2020-12-11,Gestión Turística y Hotelera,No,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",25,Hombre,Sí
+233,2020-12-11,Ingeniería Agronómica,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,20,Mujer,Sí
+234,2020-12-12,Comercio Internacional,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",23,Hombre,Sí
